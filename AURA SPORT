@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AURA Analytics</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #1a1a1a;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #1a1a1a;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5rem;
+    }
+    footer {
+      background: #1a1a1a;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AURA Analytics</h1>
+    <p>Realidad aumentada e inteligencia artificial aplicadas al análisis del rendimiento deportivo</p>
+    <nav>
+      <a href="#problema">Problema</a>
+      <a href="#objetivos">Objetivos</a>
+      <a href="#metodologia">Metodología</a>
+      <a href="#equipo">Equipo</a>
+    </nav>
+  </header>
+
+  <section id="problema">
+    <h2>Planteamiento del Problema</h2>
+    <p>La experiencia deportiva actual enfrenta limitaciones en interacción, análisis y personalización. AURA Analytics propone una solución mediante visión por computadora, inteligencia artificial y realidad aumentada, generando visualizaciones inmersivas y análisis táctico en tiempo real.</p>
+  </section>
+
+  <section id="objetivos">
+    <h2>Objetivos</h2>
+    <ul>
+      <li>Desarrollar una plataforma RA + IA para analizar el rendimiento deportivo en tiempo real.</li>
+      <li>Ofrecer datos tácticos precisos y experiencias inmersivas para aficionados.</li>
+      <li>Monetizar mediante publicidad interactiva y patrocinios personalizados.</li>
+    </ul>
+  </section>
+
+  <section id="metodologia">
+    <h2>Metodología</h2>
+    <p>El sistema se basa en cámaras ubicadas estratégicamente, modelos de visión por computadora y redes neuronales para seguimiento de jugadores. Se construyen gemelos digitales del campo y se despliega RA en móviles para enriquecer la experiencia.</p>
+  </section>
+
+  <section id="equipo">
+    <h2>Equipo de Trabajo</h2>
+    <ul>
+      <li>Víctor Hugo López Martín</li>
+      <li>Miguel Isay Morales Cortés</li>
+      <li>Christopher Josué Medrano González</li>
+      <li>Diego David Ibarra Gracia</li>
+      <li>Alberto Javier Velázquez Vázquez</li>
+      <li>Asesor: Ana Rosa Jiménez Meza</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AURA Analytics - Universidad de Guadalajara</p>
+  </footer>
+</body>
+</html>
